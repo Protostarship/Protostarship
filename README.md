@@ -24,10 +24,6 @@
     <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/bg.jpg" style="width: 100%; height: 90px; object-fit: cover;" alt="Profile Banner">
   </div>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pie/?username=Protostarship&show_icons=true&locale=en&theme=dark" alt="Protostarship Language Stats" />
-  </p>
-
   <div align="center">
     <h3>My Latest Projects</h3>
     <p>Here are some of my recent projects:</p>
