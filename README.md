@@ -1,7 +1,9 @@
 # itsnot – Protostarship
 
 <!-- TOP BAR: Blinking Stars -->
-<img src="src/stars.svg" alt="Blinking Stars" width="100%" height="80">
+<div align="center">
+  <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/animated-tiles.svg" width="100%" alt="banner"/>
+</div>
 
 <div align="center" style="background: #1b1b2f; color: #fff; padding: 1rem; font-family: sans-serif;">
   <h1 style="margin: 0.5rem 0;">itsnot</h1>
