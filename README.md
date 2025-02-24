@@ -24,9 +24,6 @@
     </p>
   </div>
 
-  <!-- Donut Chart: External SVG -->
-  <img src="src/chart.svg" alt="Donut Chart" width="200" height="200">
+  <div align="center">
+    <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/bg.jpg" style="width: 100%; height: 90px; object-fit: cover;" alt="Profile Banner">
 </div>
-
-<!-- BOTTOM BAR: Blue-Purple Waves -->
-<img src="src/waves.svg" alt="Blue-Purple Waves" width="100%" style="display: block;">
