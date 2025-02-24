@@ -1,1 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42" height="42" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background ring -->
+  <circle 
+    cx="21" cy="21" r="15.91549430918954"
+    fill="transparent"
+    stroke="#2f2f2f"
+    stroke-width="3"
+  ></circle>
 
+  <!-- Segment 1 -->
+  <circle 
+    cx="21" cy="21" r="15.91549430918954"
+    fill="transparent"
+    stroke="#6a0dad"
+    stroke-width="3"
+    stroke-dasharray="30 70"
+    stroke-dashoffset="25"
+  >
+    <animate attributeName="stroke-dashoffset" from="100" to="25" dur="2s" fill="freeze" />
+  </circle>
+
+  <!-- Segment 2 -->
+  <circle 
+    cx="21" cy="21" r="15.91549430918954"
+    fill="transparent"
+    stroke="#00bfff"
+    stroke-width="3"
+    stroke-dasharray="40 60"
+    stroke-dashoffset="55"
+  >
+    <animate attributeName="stroke-dashoffset" from="100" to="55" dur="2s" fill="freeze" begin="0.5s"/>
+  </circle>
+
+  <!-- Center text -->
+  <text x="50%" y="50%" text-anchor="middle" fill="#fff" dy=".3em" font-size="5">
+    Live Stats
+  </text>
+</svg>
