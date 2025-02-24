@@ -66,4 +66,4 @@
 </div>
 
 <!-- BOTTOM BAR: Blue-Purple Waves (direct website link) -->
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/waves.svg?raw=true" alt="Blue-Purple Waves" width="100%" style="display: block;">
+<img src="src/waves.svg" alt="Blue-Purple Waves" width="100%" style="display: block;">
