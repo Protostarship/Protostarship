@@ -40,29 +40,6 @@
           </a>
           <p>A random engine.</p>
         </td>
-        <td style="text-align: center;">
-          <a href="https://github.com/Protostarship/another-repo">
-            <img src="https://via.placeholder.com/150" width="150" alt="Another Project Image"/>
-            <p>Another Repo</p>
-          </a>
-          <p>Another random project.</p>
-        </td>
-      </tr>
-      <tr>
-        <td style="text-align: center;">
-          <a href="https://github.com/Protostarship/yet-another-repo">
-            <img src="https://via.placeholder.com/150" width="150" alt="Yet Another Project Image"/>
-            <p>Yet Another Repo</p>
-          </a>
-          <p>A third random project.</p>
-        </td>
-        <td style="text-align: center;">
-          <a href="https://github.com/Protostarship/last-repo">
-            <img src="https://via.placeholder.com/150" width="150" alt="Last Project Image"/>
-            <p>Last Repo</p>
-          </a>
-          <p>A fourth random project.</p>
-        </td>
       </tr>
     </table>
   </div>
