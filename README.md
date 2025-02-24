@@ -1,6 +1,6 @@
 # itsnot – Protostarship
 
-<!-- TOP BAR: Blinking Stars (direct website link) -->
+<!-- TOP BAR: Blinking Stars -->
 <img src="src/stars.svg" alt="Blinking Stars" width="100%" height="80">
 
 <div align="center" style="background: #1b1b2f; color: #fff; padding: 1rem; font-family: sans-serif;">
@@ -22,48 +22,9 @@
     </p>
   </div>
 
-  <!-- Donut Chart (static example) -->
-  <div style="margin: 2rem 0;">
-    <svg width="200" height="200" viewBox="0 0 42 42">
-      <!-- Background ring -->
-      <circle 
-        cx="21" cy="21" r="15.91549430918954"
-        fill="transparent"
-        stroke="#2f2f2f"
-        stroke-width="3"
-      ></circle>
-
-      <!-- Segment 1 -->
-      <circle 
-        cx="21" cy="21" r="15.91549430918954"
-        fill="transparent"
-        stroke="#6a0dad"
-        stroke-width="3"
-        stroke-dasharray="30 70"
-        stroke-dashoffset="25"
-      >
-        <animate attributeName="stroke-dashoffset" from="100" to="25" dur="2s" fill="freeze" />
-      </circle>
-
-      <!-- Segment 2 -->
-      <circle 
-        cx="21" cy="21" r="15.91549430918954"
-        fill="transparent"
-        stroke="#00bfff"
-        stroke-width="3"
-        stroke-dasharray="40 60"
-        stroke-dashoffset="55"
-      >
-        <animate attributeName="stroke-dashoffset" from="100" to="55" dur="2s" fill="freeze" begin="0.5s"/>
-      </circle>
-
-      <!-- Center text -->
-      <text x="50%" y="50%" text-anchor="middle" fill="#fff" dy=".3em" font-size="5">
-        Live Stats
-      </text>
-    </svg>
-  </div>
+  <!-- Donut Chart: External SVG -->
+  <img src="src/chart.svg" alt="Donut Chart" width="200" height="200">
 </div>
 
-<!-- BOTTOM BAR: Blue-Purple Waves (direct website link) -->
+<!-- BOTTOM BAR: Blue-Purple Waves -->
 <img src="src/waves.svg" alt="Blue-Purple Waves" width="100%" style="display: block;">
