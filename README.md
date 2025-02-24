@@ -1,15 +1,7 @@
 # itsnot – Protostarship
 
-<!-- 
-  Markdown that references external SVG files: stars.svg and waves.svg
-  Place stars.svg, waves.svg, and this README.md in the same directory.
-  Note: GitHub may not allow <use> references in README preview.
--->
-
-<!-- TOP BAR: Blinking Stars (references stars.svg) -->
-<svg width="100%" height="80" preserveAspectRatio="none">
-  <use xlink:href="./src/stars.svg#stars" />
-</svg>
+<!-- TOP BAR: Blinking Stars (direct website link) -->
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/stars.svg?raw=true" alt="Blinking Stars" width="100%" height="80">
 
 <div align="center" style="background: #1b1b2f; color: #fff; padding: 1rem; font-family: sans-serif;">
   <h1 style="margin: 0.5rem 0;">itsnot</h1>
@@ -73,8 +65,5 @@
   </div>
 </div>
 
-<!-- BOTTOM BAR: Blue-Purple Waves (references waves.svg) -->
-<svg width="100%" height="auto" preserveAspectRatio="none">
-  <use xlink:href="./src/waves.svg#waves" />
-</svg>
-
+<!-- BOTTOM BAR: Blue-Purple Waves (direct website link) -->
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/waves.svg?raw=true" alt="Blue-Purple Waves" width="100%" style="display: block;">
