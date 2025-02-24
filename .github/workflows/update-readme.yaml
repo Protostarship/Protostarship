@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "5"
+          committer_token: "${{ secrets.GITHUB_TOKEN }}"
+          branch: "main"
+          template: "$newline- $title, $date"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "Protostarship"
+          git config user.email "your.email@example.com"
+          git add README.md
+          git commit -m "Update README with dynamic content" || echo "No changes to commit"
+          git push
