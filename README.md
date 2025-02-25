@@ -1,42 +1,38 @@
-# itsnot – Protostarship
+# 👋 Hello, I'm itsnot | Protostarship
 
-<div align="center">
-  <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/animated-tiles.svg" width="100%" alt="banner"/>
-</div>
+![Neural Network Banner](https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/animated-tiles.svg)
 
-<div align="center" style="background: #1b1b2f; color: #fff; padding: 1rem; font-family: sans-serif;">
-  <h1 style="margin: 0.5rem 0;">itsnot</h1>
-  <h2 style="margin: 0.2rem 0; color: #6a0dad;">Protostarship</h2>
-  <p><em>idk, randomly doing things :D</em></p>
-  <p>1 follower • 1 following</p>
+## 🧠 AI Explorer | LLM Enthusiast | Neural Network Researcher
 
-  <div style="max-width: 600px; margin: 1rem auto; background: rgba(255,255,255,0.05); padding: 1rem; border-radius: 8px; text-align: left;">
-    <h3>About Me</h3>
-    <p>
-      Hello there! I'm <strong>itsnot</strong>, a curious explorer who loves dabbling in code, art, and random experiments. I call myself a “Protostarship” traveler—forever on a journey, never fully formed, and always seeking the next cosmic idea.
-    </p>
-    <p>
-      I enjoy building tiny prototypes, discovering new languages and frameworks, and occasionally conjuring up creative chaos.
-    </p>
-  </div>
+> *traversing the latent space of machine intelligence* ✨
+
+---
+
+### 👨‍💻 About Me
+
+I'm an enthusiastic researcher diving deep into the fascinating realms of **AI/ML** and **LLM/NLP architectures**. My passion lies in understanding how these models perceive, process, and generate language.
+
+Currently exploring:
+- Transformer architectures and attention mechanisms
+- Fine-tuning techniques for specialized domains
+- Emergent properties of large language models
+- Computational linguistics and semantic representation
+
+My **Protostarship** identity represents my journey—navigating the vast universe of artificial intelligence, constantly evolving, never fully formed, and always seeking the next breakthrough in computational understanding.
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
 
   <div align="center">
     <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/bg.jpg" style="width: 100%; height: 90px; object-fit: cover;" alt="Profile Banner">
   </div>
-
-  <div align="center">
-    <h3>My Latest Projects</h3>
-    <p>Here are some of my recent projects:</p>
-    <table style="width: 100%;">
-      <tr>
-        <td style="text-align: center;">
-          <a href="https://github.com/Protostarship/Dyk-Knyh-engine">
-            <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/animated-tiles.svg" width="150" alt="Dyk-Knyh-engine Project Image"/>
-            <p>Dyk-Knyh-engine</p>
-          </a>
-          <p>A random engine.</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</div>
