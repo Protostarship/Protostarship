@@ -33,7 +33,7 @@ My **Protostarship** identity represents my journey—navigating the vast univer
 
 ---
 
-## Statistics
+### 📈 Statistics
 
 <div align="center">
 
