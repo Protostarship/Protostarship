@@ -33,6 +33,25 @@ My **Protostarship** identity represents my journey—navigating the vast univer
 
 ---
 
+## Statistics
+
+<div align="center">
+
+  <div align="center">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Protostarship&theme=dark&show_icons=true&count_private=true&include_all_commits=true" width="32%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Protostarship&layout=donut&theme=dark&hide_border=false" width="32%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Protostarship&theme=dark" width="32%" />
+    </div>
+  </div>
+  
+  <!-- GitHub Activity Graph (last 31 days) -->
+  [![Protostarship's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Protostarship&theme=tokyo-night)](https://github.com/Protostarship)
+
+</div>
+
+---
+
   <div align="center">
     <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/bg.jpg" style="width: 100%; height: 90px; object-fit: cover;" alt="Profile Banner">
   </div>
