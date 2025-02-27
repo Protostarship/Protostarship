@@ -1,12 +1,31 @@
 # 👋 Hello, I'm itsnot | Protostarship
 
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
+
 ![Neural Network Banner](https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/animated-tiles.svg)
+
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 ## 🧠 AI Explorer | LLM Enthusiast | Neural Network Researcher
 
 > *traversing the latent space of machine intelligence* ✨
 
----
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 ### 👨‍💻 About Me
 
@@ -20,7 +39,12 @@ Currently exploring:
 
 My **Protostarship** identity represents my journey—navigating the vast universe of artificial intelligence, constantly evolving, never fully formed, and always seeking the next breakthrough in computational understanding.
 
----
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 ### 🛠️ Tech Stack
 
@@ -31,7 +55,12 @@ My **Protostarship** identity represents my journey—navigating the vast univer
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
----
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
 ### 📈 Statistics
 
@@ -50,8 +79,20 @@ My **Protostarship** identity represents my journey—navigating the vast univer
 
 </div>
 
----
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
 
   <div align="center">
     <img src="https://github.com/Protostarship/Dyk-Knyh-engine/blob/main/src/elements/bg.jpg" style="width: 100%; height: 90px; object-fit: cover;" alt="Profile Banner">
   </div>
+
+###
+<div align="center">
+  <img src="https://github.com/Protostarship/Reno-Vans/blob/main/src/repo/svg/bar.svg" alt="Animated Banner" style="width:100%; max-width:1280px; height:auto; margin:20px auto; display:block; padding-top:20px; padding-bottom:20px;">
+</div>
+
+###
